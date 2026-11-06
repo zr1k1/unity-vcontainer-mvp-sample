@@ -1,0 +1,18 @@
+{
+    "name": "Isaev.ThirdParty.Editor",
+    "rootNamespace": "Isaev.ThirdParty.Editor",
+    "references": [
+        "GUID:2aed9fd3df3174258aadaaa21f6fbb64"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

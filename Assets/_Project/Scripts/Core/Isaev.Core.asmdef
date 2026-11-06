@@ -1,0 +1,19 @@
+{
+    "name": "Isaev.Core",
+    "rootNamespace": "Isaev.Core",
+    "references": [
+        "GUID:e1f9001df50294aa38f40314680d95d8",
+        "GUID:91a011e18d04f40e792a418cac0c0e96",
+        "GUID:3fd4ef82c166d4adf8a15b5572537a26",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

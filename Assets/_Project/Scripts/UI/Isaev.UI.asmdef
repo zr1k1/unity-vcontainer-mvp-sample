@@ -1,0 +1,17 @@
+{
+    "name": "Isaev.UI",
+    "rootNamespace": "Isaev.UI",
+    "references": [
+        "GUID:2aed9fd3df3174258aadaaa21f6fbb64",
+        "GUID:e1f9001df50294aa38f40314680d95d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
