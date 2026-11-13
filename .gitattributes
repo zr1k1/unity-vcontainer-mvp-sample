@@ -1,1 +1,9 @@
-Assets/TextMesh\ Pro/** linguist-vendored
+# Third-party assets and plugins are excluded from GitHub language stats.
+# Spaces in paths must be written as [[:space:]] - "\ " does not work in .gitattributes.
+Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Assets/ThirdParty/** linguist-vendored
+Assets/Plugins/** linguist-vendored
+Packages/** linguist-vendored
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.hlsl linguist-vendored
